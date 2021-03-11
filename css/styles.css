@@ -1,16 +1,14 @@
-@charset "utf-8";
-.my-class {color: black;
-    border: 1px solid blue;
-    text-align: center;
-    background-color: lightblue;
+@charset "UTF-8"; 
+.paragraph 
+* { margin: 0; padding: 0; border: 0; font-size: 100%; } 
+
+.my-class {color: blue; background-color: lightblue;border: 1px solid blue; text-align: center;padding: 1em;background-image: url("file:///C:/Users/Flori/OneDrive/Bureaublad/prj4-chapter-3/images/galaxy.jpg")
 }
-.my-container {color: black;
+.my-container {
+    color: black;
     border: 1px solid blue;
-    text-align: center;
-    background-color: lightblue;
-	margin-right: 100px;
-	margin-left: 100px;
+    background-color: grey;
+text-align: center; margin-left: 30px; margin-right: 30px; font-family: 'Architects Daughter', cursive; text-align: center
 }
-.my-id {color: black; margin-right: 100px;
-	margin-left: 100px; border: double
+.my-id   {font-family: 'Architects Daughter', cursive; text-align: center
 }
