@@ -1,5 +1,5 @@
 @charset "UTF-8"; 
-.my-class {color: blue; background-color: lightblue;border: 1px solid blue; text-align: center;padding: 1em;background-image: url("file:///C:/Users/Flori/OneDrive/Bureaublad/prj4-chapter-3/images/galaxy.jpg")
+.my-class {color: blue; background-color: lightblue;border: 1px solid blue; text-align: center;padding: 1em;background-image: url("../images/galaxy.jpg")
 }
 .my-container {
     color: black;
