@@ -1,4 +1,11 @@
 @charset "UTF-8"; 
+  
+* {
+	margin: 20px;
+	padding: 0;
+	border: 0;
+}
+
 .my-class {color: blue; background-color: lightblue;border: 1px solid blue; text-align: center;padding: 1em;background-image: url("../images/galaxy.jpg")
 }
 
